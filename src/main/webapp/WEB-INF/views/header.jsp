@@ -6,6 +6,7 @@
 	
 <c:url var="springframeworklogo" value="/resources/images/spring-framework-logo.png" />
 <c:url var="springframeworkprojectlogo" value="/resources/images/spring-framework-project-logo.png" />
+<c:url var="springbootprojectlogo" value="/resources/images/spring-boot-project-logo.png" />
 	
 <p align="center"><img alt="springframeworklogo" src="${springframeworklogo}" ></p>
 	
