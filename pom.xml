@@ -9,7 +9,8 @@
 
 	<name>ManoloWebJSPBoot</name>
 	<description>Spring Framework through Spring MVC (JSP) with Spring Boot</description>
-
+	<packaging>war</packaging>
+	
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
