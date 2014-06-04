@@ -11,6 +11,8 @@
 	<description>Spring Framework through Spring MVC (JSP) with Spring Boot</description>
 	<packaging>war</packaging>
 	
+	<url>http://manueljordanelera.blogspot.com/</url>
+	
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
